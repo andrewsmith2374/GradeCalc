@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB251DDD2A63993900AF16D4 /* AssignmentDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFA9C5C2A638751003C05EB /* AssignmentDetail.swift */; };
 		DBFA9C432A637C4E003C05EB /* GradeCalcApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFA9C422A637C4E003C05EB /* GradeCalcApp.swift */; };
 		DBFA9C452A637C4E003C05EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFA9C442A637C4E003C05EB /* ContentView.swift */; };
 		DBFA9C472A637C4E003C05EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBFA9C462A637C4E003C05EB /* Assets.xcassets */; };
@@ -15,7 +16,6 @@
 		DBFA9C562A637D5E003C05EB /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFA9C552A637D5E003C05EB /* DataController.swift */; };
 		DBFA9C582A637F3B003C05EB /* AddAssignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFA9C572A637F3B003C05EB /* AddAssignment.swift */; };
 		DBFA9C5B2A6386DD003C05EB /* AssignmentGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFA9C5A2A6386DD003C05EB /* AssignmentGroupView.swift */; };
-		DBFA9C5D2A638751003C05EB /* AssignmentDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBFA9C5C2A638751003C05EB /* AssignmentDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -175,7 +175,7 @@
 				DBFA9C582A637F3B003C05EB /* AddAssignment.swift in Sources */,
 				DBFA9C532A637CCA003C05EB /* GradeCalc.xcdatamodeld in Sources */,
 				DBFA9C5B2A6386DD003C05EB /* AssignmentGroupView.swift in Sources */,
-				DBFA9C5D2A638751003C05EB /* AssignmentDetail.swift in Sources */,
+				DB251DDD2A63993900AF16D4 /* AssignmentDetail.swift in Sources */,
 				DBFA9C432A637C4E003C05EB /* GradeCalcApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
